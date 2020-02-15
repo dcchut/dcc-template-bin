@@ -1,5 +1,8 @@
 # dcc-template-bin
 
+[![Build Status](https://travis-ci.org/dcchut/dcc-template-bin.svg?branch=master)](https://travis-ci.org/dcchut/dcc-template-bin)
+[![codecov](https://codecov.io/gh/dcchut/dcc-template-bin/branch/master/graph/badge.svg)](https://codecov.io/gh/dcchut/dcc-template-bin)
+
 dcc-template-bin is a template for creating Rust binary applications.
 
 * [API Documentation](https://docs.rs/dcc-template-bin/)
